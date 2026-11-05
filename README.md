@@ -26,8 +26,8 @@
 
 - 🎯 Backend Developer focused on **Java**, **Spring Boot**, and **microservices**
 - 🧩 Interested in **distributed systems**, **event-driven architecture**, and **clean backend design**
-- ✍️ I write technical content on **Medium**
-- 🌱 Currently learning more about **Spring Security**, **Kafka**, **gRPC**, and **microservices architecture**
+- ✍️ I write technical contents on **Medium**
+- 🌱 Currently learning more about **CI/CD pipelines**, **Kafka**, **gRPC**, and **microservices architecture**
 - 💼 Open to backend development opportunities
 
 ---
